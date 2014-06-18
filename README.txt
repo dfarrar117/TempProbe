@@ -1,0 +1,1 @@
+This python script was designed to run on a Raspberry Pi and log temperature data from a digital thermometer.  To run, use “python ./Sensor1.py”.  Each digital thermometer has a unique ID and needs to be replaced in the script.
